@@ -34,14 +34,8 @@ for emailId,name in result:
         receiver_name[emailId]=name
 subject = "Attendance Details"
 
-sender_email = "canara.notifyattendance@gmail.com"
-#receiver_email = ["vinayakamudrai@gmail.com","vinayakamudradi@gmail.com"]
-password = 'attendance@canara'
-
-# Create a multipart message and set headers
-
-# Add attachment to message and convert message to string
-
+sender_email = "email-id-of-sender"
+password = 'your-password'
 
 
 
